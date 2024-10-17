@@ -1,0 +1,6 @@
+.container { display: flex; gap: 30px; justify-content: center}
+.constructor-details, .race-results { margin-bottom: 20px; padding: 10px; background: #eee;}
+.race-results { padding: 10px; max-height: 90vh; overflow: auto; background: #eee; }
+.race-results table { width: 100%; border-collapse: collapse; }
+.race-results th, .race-results td { border: 1px solid #ddd; padding: 8px;}
+.race-results th { background-color: #007BFF; color: white; text-align: left; }

@@ -1,0 +1,51 @@
+.container-all {
+  max-width: 900px;
+  margin: 0 auto;
+  background: #eee;
+  text-align: center;
+  padding: 10px;
+}
+
+.container-all ul {
+  margin: 40px 0;
+}
+
+.container-all ul li {
+  padding: 10px;
+  background: white;
+  margin: 5px 0;
+}
+
+.container-one {
+  text-align: center;
+}
+
+.race-result {
+  display: flex;
+  margin: 40px 0;
+  justify-content: center;
+  gap: 20px;
+  text-align: center;
+}
+
+.race-result table {
+  margin: 20px 0;
+}
+
+.race-result table th {
+  background: #007BFF;
+  color: white;
+}
+
+.race-result table, .race-result table th, .race-result table td
+{
+  border: 1px solid lightgray;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+.back-link {
+  background: #007BFF;
+  color: white;
+  padding: 10px;
+}

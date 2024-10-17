@@ -1,0 +1,16 @@
+body { text-align: center}
+pre { background-color: #f4f4f4; padding: 15px; border: 1px solid #ddd; }
+.api-tester {
+  max-width: 900px;
+  margin: 20px auto;
+  background: #eee;
+  padding: 10px;
+  padding-left: 30px;
+  text-align: left;
+}
+
+.api-tester li {
+  margin: 10px 0;
+  list-style: numeric;
+}
+
