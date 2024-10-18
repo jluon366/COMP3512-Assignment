@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>F1 Dashboard Project</title>
-    <link rel="stylesheet" href="css/global.css">
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="./css/global.css">
+    <link rel="stylesheet" href="./css/index.css">
 </head>
 <body>
 
@@ -19,6 +19,15 @@ University</p>
     </section>
     <section>
         <img src="./assets/hero.jpg" class="hero-img"/>
+    </section>
+
+    <section class="technologies">
+        <h2>Technologies Used</h2>
+        <ul>
+            <li>PHP for server-side logic</li>
+            <li>SQLite as the database</li>
+            <li>HTML, CSS for the front-end</li>
+        </ul>
     </section>
 
     <section class="browse-link">

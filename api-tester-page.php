@@ -16,6 +16,9 @@
 
 <h2>Sample API Routes</h2>
 <ul class="api-tester">
+    <!-- Circuits API routes -->
+    <li><a href="/project/api/circuits.php">/api/circuits.php (All Circuits)</a></li>
+    <li><a href="/project/api/circuits.php?ref=monaco">/api/circuits.php?ref=monaco (Circuit: Monaco)</a></li>
 
     <!-- Constructors API routes -->
     <li><a href="/project/api/constructors.php">/api/constructors.php (All Constructors)</a></li>
@@ -26,6 +29,16 @@
     <li><a href="/project/api/drivers.php?ref=hamilton">/api/drivers.php?ref=hamilton (Driver: Hamilton)</a></li>
     <li><a href="/project/api/drivers.php?race=1106">/api/drivers.php?race=1106 (Drivers in Race 1106)</a></li>
     
+    <!-- Races API routes -->
+    <li><a href="/project/api/races.php?ref=1">/api/races.php?ref=1(Race: Australian Grand Prix)</a></li>
+    <li><a href="/project/api/races.php?season=2022">/api/races.php?season=2022 (Races in 2022 Season)</a></li>
+
+    <!-- Qualifying API routes -->
+    <li><a href="/project/api/qualifying.php?ref=1106">/api/qualifying.php?ref=1106 (Qualifying Results for Race 1106)</a></li>
+
+    <!-- Results API routes -->
+    <li><a href="/project/api/results.php?ref=1106">/api/results.php?ref=1106 (Results for Race 1106)</a></li>
+    <li><a href="/project/api/results.php?driver=max_verstappen">/api/results.php?driver=max_verstappen (Results for Max Verstappen)</a></li>
 </ul>
 
 
