@@ -14,8 +14,12 @@
 <main class="homepage">
     <section class="intro">
         <h1>Welcome to the F1 Dashboard Project</h1>
-        <p>This website provides comprehensive data about Formula 1 races, drivers, constructors, and more. You can explore races, view race results, and learn about the drivers and constructors who shape the F1 world. This site is created for assignment #1 for COMP3512 at Mount Royal
+        <p>This website provides comprehensive data about Formula 1 races, drivers, constructors and more. You can explore races, view race results and learn about the drivers and constructors who shape the F1 world. This site is created for assignment #1 for COMP3512 at Mount Royal
 University</p>
+        <br>
+        <p>By Jason Luong</p>
+        <br>
+        <a href="https://github.com/jluon366/COMP3512-Assignment">Github Repository</a>
     </section>
     <section>
         <img src="./assets/hero.jpg" class="hero-img"/>
